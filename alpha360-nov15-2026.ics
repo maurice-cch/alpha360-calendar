@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ALPHA 360 Chapter//General Member Meeting//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ALPHA 360 Chapter Meetings
+BEGIN:VEVENT
+UID:alpha360-general-meeting-20261115@alpha360
+DTSTAMP:20261113T120000Z
+DTSTART:20261115T230000Z
+DTEND:20261116T010000Z
+SUMMARY:ALPHA 360 General Member Meeting - Brother Rob Hardy
+LOCATION:Online via Zoom
+DESCRIPTION:Join ALPHA 360 for a special conversation with Brother Rob Hardy about the Rattler Freedom Fund\, co-founded with Brother Will Packer.\n\nZoom meeting: https://zoom.us/j/93930178371?pwd=SYeVzdUEBCA0XjhnTg5Ct3AhUCVYyX.1\n\nSunday\, November 15\, 2026 at 6:00-8:00 PM Eastern.
+URL:https://zoom.us/j/93930178371?pwd=SYeVzdUEBCA0XjhnTg5Ct3AhUCVYyX.1
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:ALPHA 360 meeting begins in 30 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR
